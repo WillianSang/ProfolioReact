@@ -1,0 +1,51 @@
+
+
+/* Section WEBs  2da seccion*/
+
+.title_web {
+  font-size: 2rem;
+  color: rgb(58, 58, 58);
+  font-weight: bolder;
+  padding: 0 0.7rem; 
+  text-align: center;
+  margin-top: 2rem;
+}
+.container_webProject {
+  height: 600px; 
+  padding: 0.7rem; 
+  display: flex;
+  gap: 0.7rem;
+}
+.item_webProject {
+  background: #030303;
+  flex-basis: 100%;
+  color: white;
+  text-align: center;
+  font-size: 1.8rem;  
+} 
+
+
+.title_mainSection {
+  font-size: 3rem;
+}
+
+.subtitle_mainSection {
+  font-size: 1.5rem;
+}
+
+.reference_mainSection {
+  color: #0066cc;
+  font-size: 1.4rem;
+}
+
+
+
+
+
+
+
+.main_section-app {
+  margin: 3rem;
+  text-align: center;
+  height: 500px;
+}
